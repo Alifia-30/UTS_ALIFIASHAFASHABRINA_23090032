@@ -10,3 +10,5 @@ if penghitungan_bmi 25 <= 29.9:
     print(penghitungan_bmi, 'kategori kelebihan berat badan')
 if penghitungan_bmi, >= 30:
     print(penghitungan_bmi, 'kategori obesitas')
+else:
+    print('tidak valid')
